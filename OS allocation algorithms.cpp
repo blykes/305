@@ -6,6 +6,13 @@
 //  Copyright © 2016 Brian Lykes. All rights reserved.
 //
 
+/* 
+This program allows the user to enter the number of partitions that an operating
+  system is using and their sizes. Then the process to be executed and their sizes
+  and arrival times. The output is the allocation of each process (if possible) and
+  the partition in which each process is executing. The allocation algorithms are
+  first fit, next fit, best fit, worst fit.
+ */
 #include<iostream>
 #include<cstdlib>
 #include<string>
