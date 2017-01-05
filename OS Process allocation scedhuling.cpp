@@ -8,6 +8,11 @@
 //	use -std=c++11 to compile
 //	g++ -std=c++11 -o <executable name> <filename.cpp> 
 
+/* 
+This program allows the user to input the name of a process, the arrical time, CPU time and priority. 
+The output shows these according to algorithm with the average turnaround time for each. 
+*/
+
 #include<iostream>
 #include<string>
 #include<stdio.h>
