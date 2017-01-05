@@ -6,7 +6,8 @@
 //  Copyright © 2016 Brian Lykes. All rights reserved.
 //  -Wno-write-strings
 
-//this program shows an example of interprocess commnucation between parent and child processes as well as forking. 
+//This program shows an example of interprocess commnucation between parent and child processes as well as forking. 
+//There is no input for this program. 
 
 #include<stdio.h>
 #include<unistd.h>
@@ -19,9 +20,9 @@
 using namespace std;
 
 
-char* phrase = "you must lay the groundwork";
+char* phrase = "from parent to child";
 
-char* phrase2= "to lay the piping";
+char* phrase2= "from child to parent";
 
 int main(){
     
