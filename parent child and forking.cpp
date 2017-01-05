@@ -6,6 +6,7 @@
 //  Copyright © 2016 Brian Lykes. All rights reserved.
 //  -Wno-write-strings
 
+//this program shows an example of interprocess commnucation between parent and child processes as well as forking. 
 
 #include<stdio.h>
 #include<unistd.h>
