@@ -1,2 +1,2 @@
 # 305
-OS Labs
+Operating Systems Labs
