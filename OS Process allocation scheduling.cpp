@@ -9,8 +9,8 @@
 //	g++ -std=c++11 -o <executable name> <filename.cpp> 
 
 /* 
-This program allows the user to input the name of a process, the arrical time, CPU time and priority. 
-The algoritms are first come first serve, shortyest job next, and priority scheduling. 
+This program allows the user to input the name of a process, the arrival time, CPU time, and priority. 
+The algorithms are first come first serve, shortest job next, and priority scheduling. 
 The output shows these according to algorithm with the average turnaround time for each. 
 */
 
